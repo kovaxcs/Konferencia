@@ -20,7 +20,7 @@ p {font-size:15px; line-height: 200%;}
 <body style="font-size:100%; padding:0px; margin:0px; background-color:#0046a5; font-family: 'Noto Sans', sans-serif; color:#FFFFFF">
 <div id="header" style="width:100%; overflow:auto;">
   <div id="logo" style="width:19.2533%; float:left;  margin-left:6.0%; margin-top:2.0%">
-		<a href="index.php"><img src="logo.jpg" alt="logo" style="width:100%"/></a>
+		<a href="index.php"><img src="logo.png" alt="logo" style="width:100%"/></a>
     </div>
     <div id="menus" style="width:60%; text-align:center; float:left; margin:9% 7% 0% 7%; font-size:15px; font-weight:bold; text-transform:uppercase;">
     	<a style="border-bottom:#FFFFFF 1px solid;" href="#"> KÖSZÖNTŐ </a>
