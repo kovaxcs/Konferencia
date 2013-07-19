@@ -19,7 +19,7 @@
         <a href="#"> PROGRAM </a>
         <a href="#"> CÉLCSOPORT </a>
         <a href="#"> TEMATIKA </a>
-        <a href="#"> GY.I.K </a>
+        <a href="#"> GY.I.K. </a>
     </div>
 </div>
 <div id="spacer"></div>
