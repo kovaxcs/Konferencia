@@ -11,10 +11,10 @@
 <body>
 <div id="header">
   <div id="logo">
-	<a href="index.php"><img src="logo.png" alt="logo"/></a>
+	<a href="index.php"><img src="img/logo.png" alt="logo"/></a>
     </div>
     <div id="menus">
-    	<a href="#" class="active"> KÖSZÖNTŐ </a>
+    	<a href="#" id="m_koszonto" class="active"> KÖSZÖNTŐ </a>
         <a href="#"> HATÁRIDŐK </a>
         <a href="#"> PROGRAM </a>
         <a href="#"> CÉLCSOPORT </a>
@@ -25,7 +25,7 @@
 <div id="spacer"></div>
 <div id="container">
 	<div id="left">
-		<img align="right" src="koszonto.png" alt="koszoto" style="width:75%; margin-top:45px;"/>
+		<img align="right" src="img/koszonto.png" alt="koszoto" style="width:75%; margin-top:45px;"/>
 	</div>
 	<div id="right">
 		<h3 id="koszonto"> KÖSZÖNTŐ </h3>
