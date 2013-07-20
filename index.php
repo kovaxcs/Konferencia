@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link type="text/css" href="assets/css/style.css" rel="stylesheet"></link>
 <script src="assets/js/jquery-1.10.1.min.js" type="text/javascript" charset="utf-8"></script>
 <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-<link type="text/javascript" rel="stylesheet" href="assets/css/style.css">
 <script type="text/javascript" src="assets/js/main.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Konferencia</title>
