@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link type="text/css" href="assets/css/style.css" rel="stylesheet"></link>
 <script src="assets/js/jquery-1.10.1.min.js" type="text/javascript" charset="utf-8"></script>
 <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-<link type="text/javascript" rel="stylesheet" href="assets/css/style.css">
 <script type="text/javascript" src="assets/js/main.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Konferencia</title>
@@ -19,14 +19,14 @@
     </div>
     <div id="menus">
     	<a id="m_koszonto">KONFERENCIA</a>
-        <a id="m_tematika">TEMATIKA</a>
+       <!-- <a id="m_tematika">TEMATIKA</a>-->
+        <a id="m_regisztracio">Regisztráció</a>
         <a id="m_celcsoport">CÉLCSOPORT</a>
         <a id="m_reszveteli">Részvételi díj</a>
 		<a id="m_hataridok">Határidők</a>
         <a id="m_program">PROGRAM</a>
-        <a id="m_tanulmanykotet">Tanulmánykötet</a>
-        <a id="m_gyik">GY.I.K.</a><br/>
-        <a id="m_regisztracio">Regisztráció</a>
+        <a id="m_tanulmany">Tanulmány</a>
+        <a id="m_gyik">GY.I.K.</a>
     </div>
 </div>
 <div id="spacer"></div>
@@ -55,6 +55,42 @@
     <strong>A konferencia munkálatai: 2013. december 7.</strong><br/>
     Tanulmány végleges változatának beküldése: <strong>2014. január 31.</strong></p>
     <p>*Figyelem, a helyek száma korlátozott és feltöltésük a jelentkezések beérkezésének sorrendjében történik!</p>
+    </div>
+</div>
+<div class="container" id="regisztracio_text">
+    <div class="content">
+        <h3> REGISZTRÁCIÓ </h3>
+        <p></p>
+    </div>
+</div>
+<div class="container" id="celcsoport_text">
+    <div class="content">
+        <h3> CÉLCSOPORT </h3>
+        <p></p>
+    </div>
+</div>
+<div class="container" id="tanulmany_text">
+    <div class="content">
+        <h3> TANULMÁNY </h3>
+        <p></p>
+    </div>
+</div>
+<div class="container" id="gyik_text">
+    <div class="content">
+        <h3> GY.I.K. </h3>
+        <p></p>
+    </div>
+</div>
+<div class="container" id="kapcsolat_text">
+    <div class="content">
+        <h3> KAPCSOLAT </h3>
+        <p></p>
+    </div>
+</div>
+<div class="container" id="szervezoi_text">
+    <div class="content">
+        <h3> SZERVEZŐI BEMUTATÓ </h3>
+        <p></p>
     </div>
 </div>
 <div class="container" id="program_text">
@@ -93,8 +129,8 @@
     </div>
 </div>
 <div id="footer">
-	<div><img src="assets/images/profil.png" alt="location" vspace="5" hspace="5" align="absmiddle"> </div>
-	<div><a>KAPCSOLAT</a></div>
+	<div><img src="assets/images/profil.png" id="m_szervezoi" alt="location" vspace="5" hspace="5" align="absmiddle"> </div>
+	<div><a id="m_kapcsolat">KAPCSOLAT</a></div>
     <div><img src="assets/images/fb.png" alt="location" hspace="5" align="absmiddle"> <img src="assets/images/twitter.png" alt="location" hspace="5" align="absmiddle"></div>
 </div>
 </body>
